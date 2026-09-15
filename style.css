@@ -766,10 +766,10 @@ header.scrolled .logo img {
     align-items: center;
     justify-content: center;
     gap: 8px;
-    color: #25D366;
+    color: #25D366 !important;
     background: transparent;
-    border: 1px solid #25D366;
-    padding: 10px 20px;
+    border: 1.5px solid #25D366;
+    padding: 10px 24px;
     border-radius: 50px;
     font-weight: 600;
     font-size: 0.95rem;
